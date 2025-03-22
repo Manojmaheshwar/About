@@ -25,6 +25,7 @@ Network Security & Monitoring
 🌐 Let's Connect:
 
 LinkedIn: https://www.linkedin.com/in/chennu-manoj-maheshwar-reddy-480151184
+
 Email: maheshwar0126@gmail.com
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or discuss!
